@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(0, 255, 13);
+}
+
+#Score{
+    font-size: x-large;
+    margin-right: 900px;
+    font-family: Verdana;
+}
+
+#Timer{
+    font-size: x-large;
+    margin-left: 900px;
+    font-family: Verdana;
+}
+
+#sketch_to_be_drawn{
+     color:rgb(255, 0, 0);
+     font-family: fantasy;
+}
